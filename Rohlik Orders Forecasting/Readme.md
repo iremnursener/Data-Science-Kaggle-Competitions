@@ -21,7 +21,7 @@ Görseller
 Zaman Serisi Grafiği
 
 Bu grafik, farklı depolardaki günlük siparişlerin zaman içindeki değişimini göstermektedir. Trendler ve mevsimsel etkiler görsel olarak ortaya konmuştur.
-![download](https://github.com/koksal100/DATA-SCIENCE-COMPETITIONS/assets/119877414/603a45e1-6027-498a-87d5-115c0bf33b35)
+![download](https://github.com/koksal100/DATA-SCIENCE-COMPETITIONS/assets/119877414/ccc4977d-9252-4957-8ea6-66f4145dd743)
 
 Tatil Günleri Etkisi
 
