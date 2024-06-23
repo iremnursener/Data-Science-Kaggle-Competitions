@@ -17,3 +17,13 @@ Proje kapsamında kullanılan temel teknikler ve metodolojiler şunlardır:
 Zaman Serisi Analizi: Günlük sipariş verilerinin zaman içindeki değişimlerini incelemek ve trendleri belirlemek için kullanılmıştır.
 Makine Öğrenimi Modelleri: Tahminleme yapmak için çeşitli makine öğrenimi algoritmaları (örneğin, ARIMA, LSTM) kullanılmıştır.
 Veri Görselleştirme: Veri setinin keşfedici analizi için grafikler ve görseller kullanılmıştır (örneğin, zaman serisi grafiği, tatil günleri etkisi görselleri).
+Görseller
+Zaman Serisi Grafiği
+
+Bu grafik, farklı depolardaki günlük siparişlerin zaman içindeki değişimini göstermektedir. Trendler ve mevsimsel etkiler görsel olarak ortaya konmuştur.
+![download](https://github.com/koksal100/DATA-SCIENCE-COMPETITIONS/assets/119877414/603a45e1-6027-498a-87d5-115c0bf33b35)
+
+Tatil Günleri Etkisi
+
+Bu görsel, tatil günlerinin depo operasyonları üzerindeki etkilerini göstermektedir. Tatil günlerindeki sipariş sayısındaki değişimler analiz edilmiştir.
+![download](https://github.com/koksal100/DATA-SCIENCE-COMPETITIONS/assets/119877414/0f021acf-e8af-4cc3-a2db-ffd7ed870748)
